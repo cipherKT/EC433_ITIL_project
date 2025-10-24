@@ -119,7 +119,7 @@ The code uses the Amazon0302 co-purchase network dataset. The dataset will be au
 
 ##  Full Report
 
-For detailed analysis, methodology, and results, please refer to our [full technical report](https://drive.google.com/file/d/1h0Nulb8e4jCCsPC_2Vrao7E5GVg-Wskb/view?usp=sharing).
+For detailed analysis, methodology, and results, please refer to our [full technical report](https://drive.google.com/file/d/1buaNtZfwMIarPQG2cKAuYrYXQ8W-7B5x/view?usp=sharing).
 
 ##  Related Links
 
