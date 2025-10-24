@@ -29,7 +29,7 @@ Our experiments demonstrate that:
 - **Optimal hyperparameters**: Learning rate of 0.005 with hidden size of 32 yields best performance
 - **Attention visualization** provides valuable insights into the model's decision-making process
 
-![Validation Accuracy Heatmap](result.png)
+![Validation Accuracy Heatmap](results.png)
 *Validation accuracy across different hyperparameter configurations*
 
 ## Getting Started
